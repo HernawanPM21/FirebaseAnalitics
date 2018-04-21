@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1022123846780",
+    "firebase_url": "https://fir-analitics-64bfb.firebaseio.com",
+    "project_id": "fir-analitics-64bfb",
+    "storage_bucket": "fir-analitics-64bfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022123846780:android:d6447733c0882a78",
+        "android_client_info": {
+          "package_name": "doscom.tugas.firebaseanalitics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022123846780-527klqf9dpqsuhk2q0jmpu54hn25qehl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "doscom.tugas.firebaseanalitics",
+            "certificate_hash": "dbd16fa38d2e85aee47aedc74488bffae9e8cb96"
+          }
+        },
+        {
+          "client_id": "1022123846780-fl4gufnch2i1shbvgm7vk6nrlg8v128a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1I2TKkpGDr8YAAbZklIpDT_lIeRt0xbI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022123846780-fl4gufnch2i1shbvgm7vk6nrlg8v128a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
